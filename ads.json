@@ -13,7 +13,7 @@
           "tapdaq_client_key": "bf238ffa-182d-49bb-9f43-c2b596f85469",
           "tapdaq_placement_tag": "00000",
           "ironsource_key": "12f929b1d",
-          "interstitial_max_loads": "0"
+          "interstitial_max_loads": "5"
         }
     ]
 }
