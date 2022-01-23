@@ -11,7 +11,7 @@
           "admob_interstital": "ca-app-pub-7111079741182475/5523792443",
           "tapdaq_app_id": "61e5f7be08fe6c2d735d77b4",
           "tapdaq_client_key": "bf238ffa-182d-49bb-9f43-c2b596f85469",
-          "tapdaq_placement_tag": "00000",
+          "tapdaq_placement_tag": "mpay-inter",
           "ironsource_key": "12f929b1d",
           "interstitial_max_loads": "5"
         }
