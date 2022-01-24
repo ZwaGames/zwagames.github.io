@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-          "activate_ads" : "true",
+          "activate_ads" : "tapdaq",
           "network" : "admob",
           "face_banner": "1259290761245486_1259340364573859",
           "face_interstital": "1259290761245486_1259293937911835",
