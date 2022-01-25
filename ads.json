@@ -2,7 +2,7 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "network" : "admob",
+          "network" : "fan",
           "face_banner": "1259290761245486_1259340364573859",
           "face_interstital": "1259290761245486_1259293937911835",
           "face_native": "1259290761245486_1259340364573859",
