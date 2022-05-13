@@ -14,7 +14,7 @@
 	},
 	"notification": {
 		"fcm_notification_topic": "blogger_wallpaper_app_topic",
-		"onesignal_app_id": "0855da51-0ba7-45dc-b790-000000000"
+		"onesignal_app_id": "a72ebbe8-80a3-487a-94af-5ead49b6ca05"
 	},
 	"ads": {
 		"ad_status": "1",
