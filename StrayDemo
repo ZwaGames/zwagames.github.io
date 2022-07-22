@@ -1,0 +1,127 @@
+{
+	"GuideAppData": {
+
+
+		"AdsControllerGuideApp": 
+		  {
+			"BannerAd": "admob",
+			"InterAd":  "admob",
+			"NativeAd": "admob",
+			
+			
+			
+			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+			
+
+			"BannerFacebook": "",
+			"InterstitialFacebook": "",
+			"NativeFacebook": "",
+			
+			"MaxBanner": "",
+			"MaxInterstitial": "",
+			"MaxNative": "",
+			
+			"Ironsource_appkey": "",
+			
+			
+			"unity_testMode": true,
+			"unity_Game_ID": "4815358",
+			"unity_Banner": "banner",
+			"unity_Inter": "video",
+			
+			"CpaBanner": false,
+			"CpaImageLink": "https://www.dropbox.com/s/fsy3xg9id4m59gs/bngif.gif?dl=1",
+			"CpaLandingLink": "https://www.dropbox.com/s/fsy3xg9id4m59gs/bngif.gif?dl=1",
+			
+			"ShareTxt": "Install Pay Tips for mobile payments 📗 https://play.google.com/store/apps/details?id=com.altero.pay.guide ",
+			"ONESIGNAL_APP_ID": "324e1cec-7338-4b27-b9c0-f4eae6403659",
+			"PrivacyPolicyLink": "https://sites.google.com/view/alteroterms/home"
+		},
+		
+
+		"items": [
+		    {
+				"title": "About Samsung Pay",
+				"image": "https://www.dropbox.com/s/z2lj7r3fvdtdbiw/1.png?dl=1",
+				"color": "#000000",
+				"text_size": "20",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Samsung Pay is mobile payment and digital wallet service for Samsung devices that allows users to make payments at retail stores.\nSamsung Pay uses either MST (Magnetic Secure Transmission) or NFC (Near Field Communication) to communicate with the card reader.Card readers which lack NFC functionality, it uses MST technology which emulates the magnetic signal from a traditional card swipe, causing the terminal to register it as if it were a normal magnetic stripe.\nSamsung Pay leverages algorithm-generated token numbers for each card transaction, which enables only dummy account numbers saved on the device which protects the card and payment information against mobile hackers.\nUsers can select the card by swiping left or right and authenticate the payment via registered fingerprint or PIN.\nSamsung Pay allows users to add up to seven different American Express, Visa or MasterCard card accounts (both debit and credit cards), as well as gift cards.",
+				"isNative": true,
+				"background": "#D7D4E3"
+			},
+			{
+				"title": "Setting Up Samsung Pay",
+				"image": "https://www.dropbox.com/s/8vdnuixc1kz4jad/2.png?dl=1",
+				"color": "#000000",
+				"text_size": "16",
+				"isLink": false,
+				"link_title": "Img for preview app install",
+				"setLink": "https://i.pcmag.com/imagery/reviews/00NYvisAlon69Zj6S7H5BV3-15.fit_lim.size_960x.png",
+				"image_link": "https://i.pcmag.com/imagery/reviews/00NYvisAlon69Zj6S7H5BV3-15.fit_lim.size_960x.png",
+				"text": "The app and service work on most recent Samsung phone models, dating back to the Galaxy S6. In fact, it's preinstalled on many Samsung phones.\n\nI set it up on a Galaxy Note 8, which involved creating a Samsung account and PIN. Adding a credit or debit card starts with simply framing the card in the camera rectangle that appears when you choose to add a card and then entering the expiration date, CVV number, and ZIP code.\n\nNext, you agree to the usual verbose terms of service.\n\nI also had to call my bank to authorize the setup, but that varies depending on how your bank's security is set up; some simply require a text message or email verification.",
+				"isNative": true,
+				"background": "#F5D1ED"
+				
+			},
+			{
+				"title": "Paying With Samsung Pay",
+				"image": "https://www.dropbox.com/s/fqk7z92143n2wwl/3.png?dl=1",
+				"color": "#000000",
+				"text_size": "16",
+				"isLink": false,
+				"link_title": "Img for preview app install",
+				"setLink": "https://i.pcmag.com/imagery/reviews/00NYvisAlon69Zj6S7H5BV3-16.fit_lim.size_960x.png",
+				"image_link": "https://i.pcmag.com/imagery/reviews/00NYvisAlon69Zj6S7H5BV3-16.fit_lim.size_960x.png",
+				"text": "To test Samsung Pay, I headed over to my favorite local premium coffee shop, which uses a Square point of sale device attached to an iPad for payments.\n\nThe device only accepts magnetic stripe credit cards and cash, so no other mobile payment option works there.\n\nAfter holding my phone up to the card reader for 15 seconds, nothing happened, until I tapped the Pay with Samsung Pay PIN button at the bottom of the screen.\n\nI had previously set up the app to use my irises for payments, but that didn't kick in. A second try, after setting up Pay to use my fingerprint, also didn't take effect until I entered my PIN.\n\nOnce I had entered my PIN, the payments went through immediately.\n\nI also set up Samsung Pay on a Samsung watch, which offers a potentially more convenient way to pay.\n\nThe watch has its own LTE connectivity, so you don't need to have your phone nearby and paired.\n\nAnd in fact, you don't need any connectivity at all to use Samsung pay—just as you don't need connectivity on a magnetic stripe credit card, though Samsung limits you to five transactions, the count being reset each time you make a wireless connection.\n\nYou do need to set up a PIN on the watch, and for some reason, I had to enter my credit card info again, even though I'd already done so on my Galaxy test phone.Using my watch to pay was, in fact, a much more frictionless experience than using the phone.\n\nYou simply long-press the top button, your card image appears, and you accept the payment.\n\nMy cashier at the local Chinese restaurant was impressed, this being her first time seeing someone pay with a smartwatch.",
+				"isNative": true,
+				"background": "#FFCBDD"
+			},
+			{
+				"title": "Samsung Money by SoFi",
+				"image": "https://www.dropbox.com/s/0lnffvcs1iu9lj7/4.png?dl=1",
+				"color": "#000000",
+				"text_size": "16",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Previously Samsung Pay relied entirely on linked debit cards for the actual monetary transactions.\n\nWith Samsung Money by SoFi, you can now use Samsung Pay as your bank, and the service even pays interest.\nThe service has no fee, and Samsung teamed up with MasterCard and SoFi to provide it.\n\nAnother perk of the service is that you get employee pricing on Samsung products—30 percent off, which adds up if you're buying a Galaxy Z Fold 2, a 98-inch QLED 8K TV  (which lists for a cool $60K), or even a major home appliance.\n\nTo get started with Samsung Money by SoFi, you first must agree to the privacy terms, which are not especially comforting:\n\nYou agree to share any and all information collected from your use of the service with Samsung, its parents, subsidiaries, and affiliates, including application info, transaction data, and other personal information.\n\nThe SoFi privacy policy also states that they share your information with nonaffiliates (that is, third-party companies) to market to you.\n\nIt says you can limit this sharing, but it's not clear how. In fact, there are nine documents you must agree to, though an Agree to All button lets you fast-track the process.\n\nIf you decide to throw caution to the wind and sign up for Samsung Money, you must enter your name and DOB, address, citizenship, and SSN. You're informed that your SSN is protected and encrypted and that signing up doesn't affect your credit score. Then it needs your phone number for a text verification.\n\nAfter your account is set up, you're sent a card in the mail that you can use at ATMs, which you can find using the app.\n\nYou can still use the account to pay in all the ways discussed above, approving actions with biometrics such as your thumbprint.\n\nYou also earn percent interest on money parked in the account; if you maintain a Balance of $500, you receive a rate of 0.2 percent APY, below that gets you a measly 0.01 percent.\n\nThe average for interest-bearing checking accounts is 0.06 percent, according to valuepenguin.com.",
+				"isNative": true,
+				"background": "#FFCDB6"
+			},
+			{
+			    "title": "Extras, Shopping, Loyalty Programs, and Rewards",
+				"image": "https://www.dropbox.com/s/gkny3ovbqtkzd47/5.png?dl=1",
+				"color": "#000000",
+				"text_size": "16",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Whenever you use Samsung Pay, you get 5 Samsung Rewards points.\n\nFor 2,000 points, you can get a $5 reward card, so it's an understatement to say that you need to use the service a lot to get anything worthwhile from it. Still,\n\nI haven't seen this perk in other payment apps, and if your linked card earns you points, you're pretty much double-dipping with Samsung Pay.\n\nI still think it would make more sense to award points as a percentage of the transaction's dollar amount rather than a flat five points per transaction.\n\nThe app includes a Store section where you can buy gift cards for shops and restaurants, and a Deals section offering coupons you can print out.\n\nYou can also add gift cards and membership cards in the app's Wallet section.\n\nMemberships you can add include things like airline frequent flier programs, store loyalty cards, and even regular gym memberships.\n\nFinally, for payments on websites and in apps, Samsung Pay can be used with Visa Checkout for over 350,000 merchants.\n\nSamsung Pay works not only in the US, but also in 17 other countries: Australia, Brazil, Canada, China, Hong Kong, India, Malaysia, Puerto Rico, Russia, Singapore, South Korea, Spain, Sweden, Switzerland, Thailand, the United Arab Emirates, and the United Kingdom.\n\nThat's better than Venmo, which works only in the US, but it can't match PayPal's more than 200 supported countries.",
+				"isNative": true,
+				"background": "#FFDE89"
+			},
+			{
+			    "title": "The Best Way to Pay?",
+				"image": "https://www.dropbox.com/s/l1kgvnfvjry7boa/6.png?dl=1",
+				"color": "#000000",
+				"text_size": "16",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Apple Pay and Google Pay only work with point of sale devices equipped with NFC technology, while Samsung Pay works at magnetic card readers as well.\n\nThat said, paying with it isn't as smooth as with Apple Pay or Google Pay, and magnetic stripe card readers are no longer the norm.\n\nYou can't pay friends with Samsung Pay as you can with most payment apps, but you can enroll in lots of merchant loyalty programs, add gift cards, and earn Samsung reward points.\n\nThe new Samsung Money account may interest those who like interest checking, but it doesn't offer better rates than online banks.\n\nAs with Apple Pay, you're limited to one hardware company.\n\nFor a service that does more and works on all platforms, look to our Editors' Choice, Google Pay.",
+				"isNative": true,
+				"background": "#B3BDD1"
+			}
+		]
+
+	}
+}
