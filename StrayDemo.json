@@ -4,22 +4,15 @@
 
 		"StrayAdsController": 
 		  {
-			"BannerAd": "admob",
 			"InterAd":  "admob",
 			"NativeAd": "admob",
 			
-			
-			
-			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
 			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 			
-
-			"BannerFacebook": "",
 			"InterstitialFacebook": "",
 			"NativeFacebook": "",
 			
-			"MaxBanner": "",
 			"MaxInterstitial": "",
 			"MaxNative": "",
 			
@@ -28,14 +21,14 @@
 			
 			"unity_testMode": true,
 			"unity_Game_ID": "4815358",
-			"unity_Banner": "banner",
 			"unity_Inter": "video",
 			
 			"CpaBanner": false,
 			"CpaImageLink": "https://www.dropbox.com/s/fsy3xg9id4m59gs/bngif.gif?dl=1",
 			"CpaLandingLink": "https://www.dropbox.com/s/fsy3xg9id4m59gs/bngif.gif?dl=1",
 			
-			"ONESIGNAL_APP_ID": "",
+			"ONESIGNAL_APP_ID": "324e1cec-7338-4b27-b9c0-f4eae6403659",
+			"PrivacyPolicyLink": "https://sites.google.com/view/alteroterms/home"
 			
 		},
 		
